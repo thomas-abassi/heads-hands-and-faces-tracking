@@ -1,0 +1,20 @@
+Instructions:
+Use preferably this program in a well
+litted room. You will get better
+performances in front light. Hand
+tracking will work better if you
+avoid complex or skin like colour
+backgrounds and shadows on hands.
+
+Commands:
+f: To track or not faces
+p: To track or not head pose
+h: To track or not open hands
+e: To track or not facial expressions
+1 - 9: To substitute faces by models
+0: No substitution
+d: To freeze or not display
+m: to display or not this menu
+r: to reset settings
+
+Put your own models in ./models
